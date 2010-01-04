@@ -35,6 +35,8 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY hideDetailsButton.label "Hide details">
-<!ENTITY toggleDetails.key "h">
-<!ENTITY showDetailsButton.label "Show details">
+<!ENTITY dialog.title "Preferenze di CompactHeader">
+<!ENTITY checkbox.Compact.TwolineView.caption "Mostra due linee nella visualizzazione compatta">
+<!ENTITY menu.Linkify.caption "Link nell'oggetto dei feed RSS">
+<!ENTITY menu.ShowOnlyAddress.caption "Mostra solo l'indirizzo">
+<!ENTITY menu.flatButtons.caption "Pulsanti piani">
