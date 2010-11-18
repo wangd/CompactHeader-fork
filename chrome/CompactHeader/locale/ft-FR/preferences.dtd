@@ -35,13 +35,13 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY dialog.title "Preferenze di CompactHeader">
-<!ENTITY checkbox.Compact.TwolineView.caption "Mostra due linee nella visualizzazione compatta">
-<!ENTITY menu.Linkify.caption "Link nell'oggetto dei feed RSS">
-<!ENTITY menu.ShowOnlyAddress.caption "Mostra solo l'indirizzo">
-<!ENTITY menu.flatButtons.caption "Pulsanti piani">
-<!ENTITY radiobox.ToolbarPosition.caption "Posizione della Barra Intestazioni">
-<!ENTITY radiobox.ToolbarPosition.right "destra">
-<!ENTITY radiobox.ToolbarPosition.top   "alto">
-<!ENTITY radiobox.ToolbarPosition.left  "sinistra">
-<!ENTITY radiobox.ToolbarPosition.none  "invisibile">
+<!ENTITY dialog.title "Préférences de CompactHeader">
+<!ENTITY checkbox.Compact.TwolineView.caption "Afficher la vue compacte sur deux lignes">
+<!ENTITY menu.Linkify.caption "Transformer en lien les sujets des fils RSS">
+<!ENTITY menu.ShowOnlyAddress.caption "Afficher seulement les adresses des courriels">
+<!ENTITY menu.flatButtons.caption "Boutons plats">
+<!ENTITY radiobox.ToolbarPosition.caption "Position de la barre d'outil">
+<!ENTITY radiobox.ToolbarPosition.right "droite">
+<!ENTITY radiobox.ToolbarPosition.top   "haut">
+<!ENTITY radiobox.ToolbarPosition.left  "gauche">
+<!ENTITY radiobox.ToolbarPosition.none  "invisible">
